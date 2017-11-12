@@ -1,15 +1,22 @@
 body{
-    background-color: silver;
+
+    background: url(../Images/loginbg.jpg)  center no-repeat  fixed;
+    background-size:cover;
+    -webkit-background-size: cover;
 }
 .form-horizontal{
-    margin: 5rem auto;
-    background: #fff;
+    margin: 8rem auto;
+    background: rgba(255,255,255,0.5);
     padding-bottom: 40px;
     border-radius: 15px;
     text-align: center;
 }
 .form-title{
-    padding: 20px;
+    background: rgba(157, 228, 216, 0.7);
+    border-radius: 15px;
+    padding: 10px;
+    color: #ff5651;
+    font-weight:600;
 }
 .form-horizontal .form-group{
     padding: 0 40px;
