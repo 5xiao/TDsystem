@@ -5,8 +5,8 @@ body{
     -webkit-background-size: cover;
 }
 .form-horizontal{
-    margin: 15rem auto;
-    background: rgba(93, 93, 93, 0.3);
+    margin: 10% auto;
+    background: rgba(204, 204, 204, 0.3);
     padding-top: 1rem;
     padding-bottom: 10px;
     border-radius: 15px;
@@ -40,4 +40,8 @@ body{
 }
 .form-horizontal label{
     color: #d9d9d9;
+}
+.checkbox{
+    text-align: left;
+    padding: 0 40px;
 }
